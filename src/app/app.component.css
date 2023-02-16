@@ -1,0 +1,23 @@
+.vital {
+  color: red;
+  font-weight: bold;
+}
+
+.bigBlueText {
+  color: blue;
+  font-size: 28px;
+}
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;}
+li{
+  margin: 20px;
+}
+h1 {
+  text-align: center;
+}
+
+button {
+  width: fit-content
+}
